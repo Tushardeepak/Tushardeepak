@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **React, Redux**
 
 - 📫 How to reach me **tushardeepak22@gmail.com**
-<hr \>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushardeepak&show_icons=true&locale=en&layout=compact" alt="tushardeepak" /></p>
 
-<hr \>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushardeepak&show_icons=true&locale=en" alt="tushardeepak" /></p>
 <hr \>
