@@ -6,11 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushardeepak&label=Profile%20views&color=0e75b6&style=flat" alt="tushardeepak" /> </p>
 
+## 🧐 About
 - 🔭 I’m currently working on **News24x7-Client**
 
 - 🌱 I’m currently learning **React, Redux**
 
 - 📫 How to reach me **tushardeepak22@gmail.com**
+<hr \>
+
+* I have started with open source ❤️ contributions 
+* I’m looking for help in Competitive Programming 💻
+* In my free time, you'll find me listening music 🎵 or introspecting
+* Fun fact: I usually like coding at nights 🌙 
+<br><br>
 
 
 <h3 align="left">Connect with me:</h3>
