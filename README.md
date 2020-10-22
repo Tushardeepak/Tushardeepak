@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/tushar-deepak-srivastava-913817190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tushar-deepak-srivastava-913817190" height="30" width="40" /></a>
 <a href="https://fb.com/tushar.deepak.9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tushar.deepak.9" height="30" width="40" /></a>
 <a href="https://instagram.com/tushardeepak22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tushardeepak22" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tushardeepak22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="tushardeepak22" height="30" width="40" /></a>
+
 </p>
 
 
