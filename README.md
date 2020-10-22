@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **React, Redux**
 
 - 📫 How to reach me **tushardeepak22@gmail.com**
-<hr \>
+
 
 * I have started with open source ❤️ contributions 
 * I’m looking for help in Competitive Programming 💻
@@ -19,6 +19,7 @@
 * Fun fact: I usually like coding at nights 🌙 
 <br><br>
 
+<hr \>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
