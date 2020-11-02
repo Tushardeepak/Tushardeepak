@@ -23,11 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tushar-deepak-srivastava-913817190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tushar-deepak-srivastava-913817190" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tushar-deepak-srivastava-913817190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tushar-deepak-srivastava-913817190" height="30" width="40" /></a>&nbsp
   <a href="https://sourcerer.io/tushardeepak">
-    <img src=https://user-images.githubusercontent.com/20287615/34189346-d426d4c2-e4ef-11e7-9da4-cc76a1ed111d.png alt="Sourcerer" width="40" height="40"/>
+    <img src=https://user-images.githubusercontent.com/20287615/34189346-d426d4c2-e4ef-11e7-9da4-cc76a1ed111d.png alt="Sourcerer" width="40" height="30"/>
   </a>&nbsp
-<a href="https://fb.com/tushar.deepak.9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tushar.deepak.9" height="30" width="40" /></a>
+<a href="https://fb.com/tushar.deepak.9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tushar.deepak.9" height="30" width="40" /></a>&nbsp
 <a href="https://instagram.com/tushardeepak22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tushardeepak22" height="30" width="40" /></a>
 
 </p>
