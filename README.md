@@ -6,7 +6,6 @@
 
 
 ## 🧐 About
-- 🔭 I’m currently working on **News24x7-Client**
 
 - 🌱 I’m currently learning **React, Redux**
 
