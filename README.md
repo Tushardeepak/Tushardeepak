@@ -7,7 +7,7 @@
 
 ## 🧐 About
 
-- 🌱 I’m currently learning **React, Redux**
+
 
 - 📫 How to reach me **tushardeepak22@gmail.com**
 
@@ -40,5 +40,3 @@
   <img src="https://profile-counter.glitch.me/tushardeepak/count.svg" />
  </p>
  
-
- <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
