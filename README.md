@@ -12,8 +12,7 @@
 - 📫 How to reach me **tushardeepak22@gmail.com**
 
 
-- ❤️ I have started with open source contributions 
-- 💻 I’m looking for help in Competitive Programming 
+- ❤️ I have started with open source contributions and freelancing
 - 🎵 In my free time, you'll find me listening music 
 - 🌙 Fun fact: I usually like coding at nights  
 <br><br>
