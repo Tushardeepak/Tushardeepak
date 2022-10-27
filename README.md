@@ -19,7 +19,7 @@
 <hr \>
  <br>
  
-- 📫 How to reach me: **tushardeepak22@gmail.com**
+- 📫 How to reach me: **tushardeepak22@gmail.com** <br>
 - ✨ My Portfolio: **https://drive.google.com/file/d/1_apFWllJ09cjQViHYLjvXz5QU6JIdz2d/view?usp=sharing**
 
 <br>
